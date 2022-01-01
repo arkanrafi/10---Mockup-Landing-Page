@@ -1,0 +1,30 @@
+body {
+  height: 3000px;
+}
+
+.jumbotron {
+  background-color: blue;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  background-color: orangered;
+}
+
+#feature {
+  background-color: blue;
+}
+
+@media (min-width: 600px) {
+  #img-1 {
+    width: 80px;
+  }
+  #img-2 {
+    width: 400px;
+  }
+}
